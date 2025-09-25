@@ -50,7 +50,7 @@ void MerkelMain::printMenu(void)
 
 void MerkelMain::printHelp()
 {
-    std::cout << "Help - your aim is to make money. Analyse the " << std::endl;
+    std::cout << "Help - your aim is to make money. Analyse the market and make asks/bids" << std::endl;
 }
 
 void MerkelMain::printMarketStats()
@@ -167,7 +167,6 @@ void MerkelMain::enterBid()
 
 void MerkelMain::printWallet()
 {
-    std::cout << "Your wallet is empty" << std::endl;
     std::cout << wallet;
 }
 
