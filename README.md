@@ -207,10 +207,4 @@ The platform includes built-in validation for:
 - Wallet transaction integrity
 
 
-## 🙏 Acknowledgments
-
-- Market data simulation concepts
-- C++ best practices and design patterns
-- Open source trading platform inspirations
-
 ---
